@@ -6,10 +6,10 @@ Figma link: https://www.figma.com/proto/6mGJdtpzE83sPwZwkw0BT3/HelpLink?node-id=
 HelpLink bridges the gap between rural patients in distress and available volunteers using a simple, user-friendly digital platform.
 
 Users can:
-Request medical help
-Share location & emergency details
-View volunteer availability
-Track help status
+* Request medical help
+* Share location & emergency details
+* View volunteer availability
+* Track help status
 
 Volunteers can:
 * Receive SOS requests
@@ -57,14 +57,14 @@ Emergency Requests
 * PATCH /api/help/update/:id
 
 🌱 Future Enhancements
-Real-time tracking (Socket.io)
-Volunteer rating system
-Push notifications
-Mobile app version
-Multi-language rural UI
+Real-time tracking (Socket.io),
+Volunteer rating system,
+Push notifications,
+Mobile app version,
+Multi-language rural UI.
 
 ❤️ Acknowledgments
-MERN stack community
-Open-source contributors
-Figma design support
-AI assistance for documentation
+MERN stack community,
+Open-source contributors,
+Figma design support,
+AI assistance for documentation.
